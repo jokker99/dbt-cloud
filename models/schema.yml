@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: database
+    database: INTERVIEW_DB
+    schema: PLAYGROUND_ASHISH_KUMAR
+    tables:
+      - name: COVID_DATA_BY_DATE
+      - name: LOCATION_INFO
